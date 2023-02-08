@@ -1,5 +1,5 @@
 - 👋 Hi, I’m DEEPIKA NARENDRAN @JoinDeeHub
-- 👀 I’m interested in AI, passion for innovation.
+- 👀 I’m interested in DevOps, AI, passion for innovation.
 - 🌱 I’m currently learning DeepLearning
 - 🌈 Goal: Give impact to socity.
 - 📫 How to reach me deepika2.ytb@gmail.com
