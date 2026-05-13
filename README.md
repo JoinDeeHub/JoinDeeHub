@@ -1,27 +1,109 @@
-# 💫 About Me:
-👋 Hi, I’m DEEPIKA NARENDRAN @JoinDeeHub<br>👀 I’m interested in DevOps, AI, passion for innovation.<br>🌱 I’m currently learning DeepLearning<br>🌈 Goal: Give impact to socity.<br>📫 How to reach me deepika2.ytb@gmail.com<br>I am passionate about learning new technologies and continuously improving my skills while contributing to an organization’s growth and innovation.<br><br>Domain: DevOps, RPA, Microsoft Power Automate, Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization and Data Warehousing, Git and Github.<br><br><br>Framework: Ruby on Rails.<br><br>Libraries & Tools: Jenkins, Maven, Tomcat, Jira, github, Ansible, Docker, kubernetes, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, Keras, NLTK, Sentry, TensorFlow, Seaborn and Beautiful Soup, Jenkins, Tomcat, Maven.<br><br>Data Analysis: Exploratory Data Analysis, Ensemble Methods, Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods.
+<h1 align="center">Hi 👋, I'm Deepika Narendran</h1>
+<h3 align="center">🚀 DevOps Engineer | AI/ML Developer | Cloud Enthusiast | Bengaluru, India</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_deepikanarendran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepika-narendran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepika2.ytb@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=plastic&logo=jinja&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=plastic&logo=Adobe%20Fonts&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=plastic&logo=adobeindesign&logoColor=FF3366) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=plastic&logo=splunk&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JoinDeeHub&theme=prussian&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=JoinDeeHub&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoinDeeHub&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JoinDeeHub&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JoinDeeHub&limit=5&theme=holi&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://linkedin.com/in/deepika-narendran"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:deepika2.ytb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/i_am_deepikanarendran"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JoinDeeHub&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JoinDeeHub&icon=4&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+
+- 🔭 Currently working on **AWS Cloud Infrastructure, Terraform & Microservices**
+- 🌱 Learning **Advanced DevOps – Kubernetes, Helm, ArgoCD, and Observability**
+- 🏆 Built **ReStyleAI** – AI-Powered Circular Fashion Platform for AI Hackathon 2025
+- 🛡️ Created a **Container Vulnerability Scanner** with Trivy + Prometheus + Grafana
+- 💬 Ask me about **DevOps pipelines, AWS, Python automation, and ML projects**
+- 📧 Reach me at **deepika2.ytb@gmail.com**
+- 🎓 Graduate from **Dayananda Sagar Academy of Technology and Management**
+- 🧠 Certified in **Generative AI Foundations – UpGrad**
+
+---
+
+## 📌 Pinned / Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| [♻️ ReStyleAI](https://github.com/JoinDeeHub/ReStyleAI) | AI Hackathon Final – Circular Fashion AI Platform | Python, Streamlit, Docker |
+| [🛡️ Container Vulnerability Scanner](https://github.com/JoinDeeHub/Capstone-container-image-vulnerability-scanner) | CI/CD vulnerability scanner with Trivy, Slack alerts, Prometheus | Python, Trivy, Grafana |
+| [☁️ Terraform EC2 Nginx](https://github.com/JoinDeeHub/terraform-nginx-ubuntu) | IaC deployment of Nginx on AWS EC2 using Terraform | Terraform, AWS, HCL |
+| [🐠 Microservices App](https://github.com/JoinDeeHub/Microservices_) | Microservices architecture skill test | JavaScript, Node.js |
+| [🤖 Gen AI Titanic Analysis](https://github.com/JoinDeeHub/Generative_AI_Titanic_CaseStudy_Data_Analysis) | Prompt engineering + Python data analysis on Titanic dataset | Python, Jupyter, Gen AI |
+| [📧 PNB Email Automation](https://github.com/JoinDeeHub/pnb-email-automation) | Scheduled daily email automation with GitHub Actions | Python, GitHub Actions |
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=plastic&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=plastic&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=plastic&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=plastic&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=plastic&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=plastic&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=plastic&logo=githubactions&logoColor=white)
+
+### 🐍 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=plastic&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![HCL](https://img.shields.io/badge/HCL%20(Terraform)-623CE4?style=plastic&logo=terraform&logoColor=white)
+
+### 🧠 AI / ML / Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=Keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=plastic&logo=splunk&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
+- 🏆 **Generative AI Foundations** – UpGrad
+- 🔧 **DevOps Practices** – Hands-on CI/CD, Docker, Kubernetes
+- ☁️ **AWS Cloud** – EC2, S3, IAM, Lambda (Free Tier)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoinDeeHub&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JoinDeeHub&theme=prussian&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoinDeeHub&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoinDeeHub&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+### ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</p>
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/JoinDeeHub">Deepika Narendran</a> | Bengaluru, India 🇮🇳
+</p>
