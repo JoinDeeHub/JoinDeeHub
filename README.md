@@ -81,12 +81,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoinDeeHub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="Deepika's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoinDeeHub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=JoinDeeHub&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JoinDeeHub&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoinDeeHub&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
@@ -94,6 +93,8 @@
     <img src="https://img.shields.io/badge/📊%20View%20All%20Repositories-Click%20Here-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
   </a>
 </p>
+
+---
 
 ## 🏆 GitHub Trophies
 
