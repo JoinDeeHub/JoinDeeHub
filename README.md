@@ -23,14 +23,14 @@
 
 ---
 
-## 📌 Pinned / Featured Projects
+## 📌 Featured Projects
 
 | Project | Description | Tech Stack |
 |---|---|---|
 | [♻️ ReStyleAI](https://github.com/JoinDeeHub/ReStyleAI) | AI Hackathon Final – Circular Fashion AI Platform | Python, Streamlit, Docker |
 | [🛡️ Container Vulnerability Scanner](https://github.com/JoinDeeHub/Capstone-container-image-vulnerability-scanner) | CI/CD vulnerability scanner with Trivy, Slack alerts, Prometheus | Python, Trivy, Grafana |
-| [☁️ Terraform EC2 Nginx](https://github.com/JoinDeeHub/terraform-nginx-ubuntu) | IaC deployment of Nginx on AWS EC2 using Terraform | Terraform, AWS, HCL |
-| [🐠 Microservices App](https://github.com/JoinDeeHub/Microservices_) | Microservices architecture skill test | JavaScript, Node.js |
+| [📧 Motilal Oswal Email Automation](https://github.com/JoinDeeHub/motilaloswal-email-automation) | Automated email workflow for financial services outreach | Python, GitHub Actions, SMTP |
+| [🎨 GDesigns Website](https://github.com/JoinDeeHub/gdesigns-website) | Responsive website project for a design brand | JavaScript, HTML, CSS |
 | [🤖 Gen AI Titanic Analysis](https://github.com/JoinDeeHub/Generative_AI_Titanic_CaseStudy_Data_Analysis) | Prompt engineering + Python data analysis on Titanic dataset | Python, Jupyter, Gen AI |
 | [📧 PNB Email Automation](https://github.com/JoinDeeHub/pnb-email-automation) | Scheduled daily email automation with GitHub Actions | Python, GitHub Actions |
 
@@ -81,25 +81,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoinDeeHub&theme=prussian&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoinDeeHub&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JoinDeeHub&theme=prussian&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=JoinDeeHub&theme=prussian&hide_border=false" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoinDeeHub&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoinDeeHub&theme=prussian&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoinDeeHub&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoinDeeHub&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ### ✍️ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote" />
 </p>
 
 ---
